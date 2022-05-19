@@ -16,5 +16,5 @@ Gündemi takip etmek isteyen herkes
 # Product Backlog URL
 
 # Sprint 1
-# Sprint notları:
-# Sprint içinde tamamlanması tahmin edilen puan:100 puan
+Sprint notları:
+Sprint içinde tamamlanması tahmin edilen puan: 100 puan
