@@ -14,11 +14,11 @@ Gazeteleri sayfa sayfa okuma imkanı olacak
 Gündemi takip etmek isteyen herkes
 12-65 yaş arası kullanıcılar
 # Product Backlog URL
-
-# Sprint 2
-Sprint notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir. 
 https://miro.com/app/board/uXjVOyy0cbc=/
-Sprint içinde tamamlanması tahmin edilen puan: 100 puan
-![BBC-UK](https://user-images.githubusercontent.com/105654541/169798800-8c4efacb-701b-49d0-8b9d-1ad29930fd09.PNG)
-![New York Times](https://user-images.githubusercontent.com/105654541/169798807-440d1111-c46c-4833-87d2-3ccc3b303c83.PNG)
-![The Times UK](https://user-images.githubusercontent.com/105654541/169798814-e47b9ef6-8698-4f62-8b2c-76ca69714b63.PNG)
+# Sprint 2
+* Sprint notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir. 
+* Sprint içinde tamamlanması tahmin edilen puan: 150 puan
+![Miro](https://user-images.githubusercontent.com/105654541/169825398-d8d5bf98-e299-48bf-993f-f7ed680e0b67.PNG)
+
+* Sprint Review:  Alternatif gazeteler araştırılmıştır. Android Studio da yaşanan aksaklık nedeniyle progrmamın gerisinde kalınmıştır. 
+* Sprint Retrospective: Android studio problemi giderilecektir. Süreç hızlandırılacaktır.Danışmanım Muhammed Bey'den daha fazla iletişim halinde olunacaktır.
