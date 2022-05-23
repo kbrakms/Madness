@@ -21,4 +21,4 @@ https://miro.com/app/board/uXjVOyy0cbc=/
 ![Miro](https://user-images.githubusercontent.com/105654541/169825398-d8d5bf98-e299-48bf-993f-f7ed680e0b67.PNG)
 
 * Sprint Review:  Alternatif gazeteler araştırılmıştır. Android Studio da yaşanan aksaklık nedeniyle progrmamın gerisinde kalınmıştır. 
-* Sprint Retrospective: Android studio problemi giderilecektir. Süreç hızlandırılacaktır.Danışmanım Muhammed Bey'den daha fazla iletişim halinde olunacaktır.
+* Sprint Retrospective: Android studio problemi giderilecektir. Süreç hızlandırılacaktır.Danışmanım Muhammed Bey ile daha fazla iletişim halinde olunacaktır.
